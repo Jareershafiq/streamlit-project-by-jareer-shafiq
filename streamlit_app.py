@@ -68,3 +68,4 @@ if st.button("Get Weather"):
                 st.metric("💨 Wind Speed", f"{approx_data['wind']} m/s")
             with col4:
                 st.metric("🌍 Pressure", f"{approx_data['pressure']} hPa")
+created by jareer shafiq 
